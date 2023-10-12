@@ -5,5 +5,5 @@ if (win === undefined) {
     return undefined;
   }
  if (win !== undefined)
-  return record.year;
+  return win.year;
 }
